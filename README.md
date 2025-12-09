@@ -11,4 +11,4 @@ The tool applies aircraft-specific brake energy formulas and cooling curves to d
 ![example](img/ex1.png)
 
 ## Database
-The tool is designed to model brake cooling times for the [Boeing 737](https://en.wikipedia.org/wiki/Boeing_737). However, performance data for this plane is proprietary. The required performance tables for this app to work cannot be bundled and must be obtained seperately.
+The tool is designed to model brake cooling times for the [Boeing 737](https://en.wikipedia.org/wiki/Boeing_737). However, performance data for this plane is proprietary. The required performance tables for this app to work cannot be bundled and must be obtained seperately. A blank database with the required layout as an example is placed in `/database` 
